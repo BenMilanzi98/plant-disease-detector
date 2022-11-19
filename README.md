@@ -9,3 +9,5 @@ flutter pub get
 
 flutter run
 ```
+
+`Note => If you are facing ":tflite" error, pls follow this` [Comment](https://github.com/shaqian/flutter_tflite/issues/266#issuecomment-1320822769)
